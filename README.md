@@ -8,11 +8,13 @@
   </a>
   <a href="https://stackoverflow.com/users/16502017/rinki">
     <img src="https://img.shields.io/badge/Stackoverflow-red?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stackoverflow Badge"/>
-  </a>
+  </a><br/>
+  <img src="https://komarev.com/ghpvc/?username=Rinki8085&style=flat-square&color=blue" alt=""/>
   <h1>
     hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
+  <h3>A passionate Full Stack React developer from India who always strives to work on end to end products. I specialise in building web applications with the MERN stack.</h3>
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -21,14 +23,15 @@
 
 ### :woman_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: Having internship from Masai.
+- :telescope: I am currently learning MERN stack at Masai School.
 
 - :seedling: Exploring new Technologies.
 
 - :zap: In my free time, I like to write diary.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkdln-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/km-rinki-647b9a1b6/)
+- :mailbox:How to reach me: <a href="mailto:krinki2604@gmail.com">krinki2604@gmail.com</a>
 
+- :open_book: Know about my experience <a href="https://drive.google.com/file/d/1ye3TT9OeRRQiqcXV0x-5EkMUsLBVAkQd/view?usp=sharing">Resume</a>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
