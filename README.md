@@ -23,15 +23,15 @@
 
 ### :woman_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I am currently learning MERN stack at Masai School.
+:telescope: I am currently learning MERN stack at Masai School.
 
-- :seedling: Exploring new Technologies.
+:seedling: Exploring new Technologies.
 
-- :zap: In my free time, I like to write diary.
+:zap: In my free time, I like to write diary.
 
-- :mailbox:How to reach me: <a href="mailto:krinki2604@gmail.com">krinki2604@gmail.com</a>
+:mailbox:How to reach me: <a href="mailto:krinki2604@gmail.com">krinki2604@gmail.com</a>
 
-- :open_book: Know about my experience <a href="https://drive.google.com/file/d/1KUwdK1MebMj9rwiBDPAQJ3kn8fsLsO7S/view?usp=sharing">Resume</a>
+:open_book: Know about my experience <a href="https://drive.google.com/file/d/1KUwdK1MebMj9rwiBDPAQJ3kn8fsLsO7S/view?usp=sharing">Resume</a>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
