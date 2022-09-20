@@ -11,18 +11,20 @@
   </a><br/>
   <img src="https://komarev.com/ghpvc/?username=Rinki8085&style=flat-square&color=blue" alt=""/>
   <h1>
-    hey there
+    𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <h3>A passionate Full Stack React developer from India who always strives to work on end to end products. I specialise in building web applications with the MERN stack.</h3>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </div>
-<div align='center'>
+<div>
+
+---------------------------------
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a 🖥 Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 :telescope: I am currently learning MERN stack at Masai School.
 
 :seedling: Exploring new Technologies.
@@ -32,6 +34,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 :mailbox:How to reach me: <a href="mailto:krinki2604@gmail.com">krinki2604@gmail.com</a>
 
 :open_book: Know about my experience <a href="https://drive.google.com/file/d/1KUwdK1MebMj9rwiBDPAQJ3kn8fsLsO7S/view?usp=sharing">Resume</a>
+
+-----------------------
+
+### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
@@ -40,9 +46,15 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="typeScript" width="40" height="40"/>
 </div>
 
+----------------------------------
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rinki8085&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+----------------------------
 
 ### :fire: My Stats :
 
