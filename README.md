@@ -33,7 +33,7 @@ I am a 🖥 Full Stack Developer <img src="https://media.giphy.com/media/WUlplcM
   
 :mailbox:How to reach me: <a href="mailto:krinki2604@gmail.com">krinki2604@gmail.com</a>
 
-:open_book: Know about my experience <a href="https://drive.google.com/file/d/1aFg54pI5BdUWYjvbRk5p5xHiTxc52sp7/view?usp=sharing">Resume</a>
+:open_book: Know about my experience <a href="https://drive.google.com/file/d/1JVjwcyFjrd7hhkFBf7AHmYSYkZ4JYpKi/view?usp=sharing">Resume</a>
 
 -----------------------
 
